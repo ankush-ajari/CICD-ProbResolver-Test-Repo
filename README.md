@@ -1,1 +1,1 @@
-This is a test repository to test workflow failures
+This is a test repository to test workflow failures.
