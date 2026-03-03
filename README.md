@@ -1,1 +1,1 @@
-This is a test repository to test CI/CD pipeline failures.
+This is a test repository to detect CI/CD pipeline failures.
